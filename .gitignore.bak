@@ -23,12 +23,3 @@
 hs_err_pid*
 
 /.idea
-/target/classes
-/target/maven-status
-/target/untitled-1.0-SNAPSHOT.jar
-/target/generated-sources
-/target/generated-test-sources
-/target/maven-archiver
-/target/test-classes
-/target/surefire-reports
-/target/jacoco.exec
